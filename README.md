@@ -6,7 +6,7 @@
 <h4 align="center">I am a Student at G. Pulla Reddy Engineering College in Computer Science and Engineering. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
 <p align="centre">&nbsp;<img  src="https://image.shutterstock.com/z/stock-vector-programming-banner-coding-best-programming-languages-flat-illustration-concept-1078387013.jpg" width="500" height="300">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KonidelaMadheswar&label=Profile%20views&color=0e75b6&style=flat" alt="KonidelaMadheswar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=YesaswiniReddy&label=Profile%20views&color=0e75b6&style=flat" alt="YesaswiniReddy" /> </p>
 - 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **C, Java, SQL**
