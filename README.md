@@ -11,7 +11,7 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=YesaswiniReddy&theme=redical&count_private=true">
 <p align="center">
 <p align="center"> <img src="https://github.com/arpanaditya/arpanaditya/blob/output/github-contribution-grid-snake.svg" width="1000" /> </p>
-## 🙋‍♀️ Let's Connect
+ Let's Connect..!
 
 <p align="center">
 	<a href="mailto:yesaswinireddy280@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
