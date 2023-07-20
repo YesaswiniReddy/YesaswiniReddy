@@ -1,4 +1,4 @@
-<h1>Hi there..!</h1>
+<h1>Hi There..!</h1>
 </p>
 <hr/>
 <h4 align="center">I am a Student at G. Pulla Reddy Engineering College in Computer Science and Engineering</h4>
