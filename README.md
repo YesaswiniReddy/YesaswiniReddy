@@ -8,11 +8,6 @@
    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YesaswiniReddy&show_icons=true&theme=radical" />
    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YesaswiniReddy&theme=radical" />
 </p>
-<img src="https://activity-graph.herokuapp.com/graph?username=YesaswiniReddy&theme=redical&count_private=true">
-<p align="center">
-<p align="center"> <img src="https://github.com/arpanaditya/arpanaditya/blob/output/github-contribution-grid-snake.svg" width="1000" /> </p>
- Let's Connect..!
-
 <p align="center">
 	<a href="mailto:yesaswinireddy280@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/YesaswiniReddy/YesaswiniReddy"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/>
